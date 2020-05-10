@@ -40,9 +40,9 @@ Banking Datasets and Predicting Next Best Action to the Loan
 
 ### Run with R
 `Predictions-NBA.R`
+`RandomForest-B-Data.R`
 
 
-
-
+#### By Nisal Chandrasekara for BA Assignment CIS-7026
 
 
