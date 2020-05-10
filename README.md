@@ -39,7 +39,7 @@ Banking Datasets and Predicting Next Best Action to the Loan
 `> ntb_data=read_excel("NTB-Bank-DataSet.xlsx',sheet = 2)`
 
 ### Run with R
-`Predictions-NBA.r`
+`Predictions-NBA.R`
 
 
 
