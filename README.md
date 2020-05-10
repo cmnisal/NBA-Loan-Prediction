@@ -1,18 +1,21 @@
 # NBA-Loan-Prediction
 Banking Datasets and Predicting Next Best Action to the Loan
-![NBA-Banking-001](https://httpsak-a.akamaihd.net/1900410236/1900410236_5620107725001_3973999413001-vs.jpg?pubId=1900410236&videoId=3973999413001)
+
+![NBA Banking Concept](https://user-images.githubusercontent.com/8001789/81504093-05d22880-9305-11ea-98e7-c0259cbcb3c7.png)
+
+
 ## Data-Description
 | Title                | Description                                                                   |
 |----------------------|-------------------------------------------------------------------------------|
 | ID                   | Customer ID                                                                   |
 | Age                  | Customer's age in   years                                                     |
 | Experience           | Years of professional   experience                                            |
-| Income               | Annual income of the   customer ($000)                                        |
+| Income               | Annual income of the   customer ()                                        |
 | ZIPCode              | Home Address ZIP   code.                                                      |
 | Family               | Family size of the   customer                                                 |
-| CCAvg                | Avg. spending on   credit cards per month ($000)                              |
+| CCAvg                | Avg. spending on   credit cards per month ()                              |
 | Education            | Education Level. 1:   Undergrad; 2: Graduate; 3: Advanced/Professional        |
-| Mortgage             | Value of house   mortgage if any. ($000)                                      |
+| Mortgage             | Value of house   mortgage if any. ()                                      |
 | Personal Loan        | Did this customer   accept the personal loan offered in the last campaign?    |
 | Securities   Account | Does the customer   have a securities account with the bank?                  |
 | CD Account           | Does the customer   have a certificate of deposit (CD) account with the bank? |
