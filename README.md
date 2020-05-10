@@ -1,5 +1,6 @@
 # NBA-Loan-Prediction
 Banking Datasets and Predicting Next Best Action to the Loan
+![NBA-Banking-001](https://httpsak-a.akamaihd.net/1900410236/1900410236_5620107725001_3973999413001-vs.jpg?pubId=1900410236&videoId=3973999413001)
 
 ## Environment Set up and Data Import
 ### Importing and calling libraries
